@@ -1,0 +1,26 @@
+CREATE VIEW `vw_usuarios` AS
+
+SELECT 
+	usuario.*, cliente.cli_Logo, cliente.cli_Nombre
+FROM
+	usuario
+		inner join cliente
+			on usuario.cli_idCliente = cliente.cli_idCliente
+
+
+---------------------------------------------------------------------------------
+
+INSERT INTO `briolitedb`.`usuario` (`usr_Nombre`, `usr_Email`, `usr_Clave`, `cli_idCliente`) VALUES ('Alejandro Gallo', 'alegallo@gmail.com', 'fer', '2');
+
+---------------------------------------------------------------------------------
+
+INSERT INTO `briolitedb`.`cliente` (`cli_Nombre`, `cli_Logo`) VALUES ('CAF', 'logo_caf.jpg');
+
+---------------------------------------------------------------------------------
+
+CREATE TABLE `briodashboard`.`cliente` (
+  `cli_idCliente` INT NOT NULL AUTO_INCREMENT,
+  `cli_Nombre` VARCHAR(100) NULL,
+  `cli_Logo` VARCHAR(45) NULL,
+  `cli_Activo` TINYINT NULL,
+  PRIMARY KEY (`cli_idCliente`));
