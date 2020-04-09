@@ -5,8 +5,6 @@
 </script>
 
 <?php
-    require_once("../models/clsPanelGlobal.php");
-    
     $Mensaje = "";
   ?>
 
@@ -17,8 +15,8 @@
     
       <h1>
       <i class="fa fa-users"></i>
-      &nbsp;&nbsp;Panel de Socios 
-        <small>Identificación movíl de socios - IMS</small>
+      &nbsp;&nbsp;Importación de Socios 
+        <small>Sede Virtual - SV</small>
       </h1>
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Actualizacion de Información</a></li>
@@ -26,22 +24,16 @@
       </ol>
     </section>
 
-<section class="content">
-      <!-- ******************************************************************************************************************************** -->
-      <section class="content">
-      <div class="row">
-        <div class="col-md-6">
-            <?php  include "ImportXml.php";  ?>
-            <?php
-              //echo "Socios Actualizados: ";
-              //echo "Inserto: " . $inserted;
-              //echo "Errores: " . $err;
+<section class="content">          
+  
+  <?php include "Paneles\CtrlPG.php";  ?>  
 
-            ?>  
-        </div>
-
-      </div>
-
-      <!-- /.row (main row) -->    
-    </section>
+  <div class="row">
+    <div class="col-md-12">
+        <?php include "ImportXml.php";  ?>
+    </div>
+  </div>
+        
+  <?php echo '<script language="javascript">document.getElementById("information").innerHTML="Proceso finalizado"</script>';?>
+</section>
        

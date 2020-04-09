@@ -5,10 +5,8 @@
 </script>
 
 <?php
-    require_once("../models/clsPanelGlobal.php");
     require_once("../models/clsSocio.php");
 
-    $indicador = new clsPanelGlobal(); 
     $socios = new clsSocio();
     $filtro = "";
     $filtroNum = "";

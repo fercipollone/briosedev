@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Socios>
+  <Socio>
+    <soc_nrosocio>339944</soc_nrosocio>
+    <soc_documento>24239936</soc_documento>
+    <soc_apellidoynombre>ABBA CRISTIAN ARIEL</soc_apellidoynombre>
+    <soc_Edad>45</soc_Edad>
+    <cat_descripcion>ACTIVO</cat_descripcion>
+    <ses_descripcion>ACTIVO</ses_descripcion>
+    <soc_fechatopehabilitacion>2020-05-06T00:00:00</soc_fechatopehabilitacion>
+    <soc_foto>339944.JPG</soc_foto>
+    <cli_IdCliente>5</cli_IdCliente>
+    <soc_pin>0293051100</soc_pin>
+    <soc_accesos />
+    <soc_idsocio>339944</soc_idsocio>
+    <soc_fechanac>1974-12-04T00:00:00</soc_fechanac>
+    <soc_domicilio>BROWN 1752 3B</soc_domicilio>
+    <soc_fechaalta>2015-12-01T00:00:00</soc_fechaalta>
+    <FechaAct>2020-04-03T13:15:07.780</FechaAct>
+    <soc_ultimoperiodopago>03/20</soc_ultimoperiodopago>
+    <soc_sexo>M</soc_sexo>
+    <tid_idTipoDocumento>1</tid_idTipoDocumento>
+    <tso_idtiposocio>2</tso_idtiposocio>
+    <soc_idsociotitular>339933</soc_idsociotitular>
+  </Socio>
+  <Socio>
+    <soc_nrosocio>339922</soc_nrosocio>
+    <soc_documento>50697887</soc_documento>
+    <soc_apellidoynombre>ABBA EMILIA</soc_apellidoynombre>
+    <soc_Edad>9</soc_Edad>
+    <cat_descripcion>MENOR</cat_descripcion>
+    <ses_descripcion>GF MIEMBRO</ses_descripcion>
+    <soc_fechatopehabilitacion>2020-05-06T00:00:00</soc_fechatopehabilitacion>
+    <soc_foto>339922.JPG</soc_foto>
+    <cli_IdCliente>5</cli_IdCliente>
+    <soc_pin>0293296412</soc_pin>
+    <soc_accesos />
+    <soc_idsocio>339922</soc_idsocio>
+    <soc_fechanac>2010-09-16T00:00:00</soc_fechanac>
+    <soc_domicilio>BROWN 1752 3B</soc_domicilio>
+    <soc_fechaalta>2015-12-01T00:00:00</soc_fechaalta>
+    <FechaAct>2020-04-03T13:15:07.780</FechaAct>
+    <soc_ultimoperiodopago>03/20</soc_ultimoperiodopago>
+    <soc_fechaAptoMedico>2019-10-28T00:00:00</soc_fechaAptoMedico>
+    <ecm_Descripcion> Sin Apto Médico</ecm_Descripcion>
+    <ecm_HabilitaAcceso>0</ecm_HabilitaAcceso>
+    <soc_sexo>F</soc_sexo>
+    <tid_idTipoDocumento>1</tid_idTipoDocumento>
+    <tso_idtiposocio>2</tso_idtiposocio>
+    <soc_idsociotitular>339933</soc_idsociotitular>
+  </Socio>
+</Socios>

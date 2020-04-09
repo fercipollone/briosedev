@@ -1,8 +1,5 @@
 <?php
-    require_once("../models/clsPanelGlobal.php");
     require_once("../models/clsSocio.php");
-
-    $indicador = new clsPanelGlobal(); 
     $socios = new clsSocio();
 
    if(isset($_POST["busqueda"]))
@@ -18,7 +15,6 @@
       echo "Get";
       echo $filtro; 
     }
-    
     
   ?>
 

@@ -1,6 +1,13 @@
 <?php
-   ob_start();
    session_start();
+   
+    if (!isset($_SESSION['ClienteLogo']))
+    {
+      header('Location: login.php');
+      //echo "Valido head.php redireccion";
+    }
+   
+    //ob_start();
 ?>
 
 <head>

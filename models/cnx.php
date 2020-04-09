@@ -13,11 +13,9 @@ class cnx
             //SERVER 
             //$servername = "66.206.4.138";
             //$servername = "localhost";
-            //$database = "briolitedb";
-            //$username = "briod2019";
-            //$password = "Pass@briod2019";
-            //$username = "briolite";
-            //$password = "Pass@briolite";
+            //$database = "briosedev";
+            //$username = "sedev";
+            //$password = "Pass@s2020";
             //XAMPP
             $servername = "localhost";
             $database = "briosedev";

@@ -2,7 +2,7 @@
 <html>
 
 <?php 
-  include("head.php");
+  include("headlogin.php");
   session_destroy();
 
   $rechazo = "";
@@ -24,7 +24,7 @@
 
     <form action="loginValidar.php" method="post">
       <div class="form-group has-feedback">
-        <input name="email" type="number" class="form-control" placeholder="Nro Documento" required>
+        <input name="email" type="text" class="form-control" placeholder="Nro Documento" required>
         <span class="glyphicon glyphicon-user form-control-feedback"></span>
       </div>
       

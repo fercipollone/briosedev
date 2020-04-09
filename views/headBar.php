@@ -1,11 +1,13 @@
 
 <?php 
-
+  
+  /*
   if (!isset($_SESSION['ClienteLogo']))
   {
     header('Location: login.php');
   }
-
+  */
+  
   $LogoName = $_SESSION['ClienteLogo']; 
   $LogoPath = "dist/img/";
   $LogoFullPath = $LogoPath . $LogoName;
@@ -20,14 +22,14 @@
               <!-- The user image in the navbar-->
               <img src="dist/img/logoBrio.jpg" class="user-image" alt="User Image">
               <!-- hidden-xs hides the username on small devices so only the image appears. -->
-              <span class="hidden-xs"> <?php echo $_SESSION['ClienteNombre'];?></span>
+              <span class="hidden-xs">Brio Software Club</span>
             </a>
             <ul class="dropdown-menu">
               <!-- The user image in the menu -->
               <li class="user-header">
                 <img src="dist/img/logoBrio.jpg" class="img-circle" alt="User Image">
                 <p>
-                <?php echo $_SESSION['ClienteNombre'];?>
+                Brio Software Club
                   <small>Usuario: <?php echo $_SESSION['UsuarioNombre'];?></small>
                 </p>
               </li>

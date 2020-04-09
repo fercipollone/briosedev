@@ -1,5 +1,5 @@
 <?php
-     ob_start();
+     //ob_start();
      session_start();
 
     $email = htmlspecialchars($_POST["email"]); 
@@ -14,19 +14,27 @@
             $_SESSION['RechazoLogin'] = $respuesta;
             $user->closeCNX();
             header('Location:login.php',true,301);
+            //echo "loginValidar.php";
         }
     else
         {
             $user->closeCNX();
-            //header('Location:ImportXML.php?name=' . $_SESSION['ClienteXMLFileName'],true,301);
-            if ($_SESSION['SuperUsuario']==0)
-                {
+            switch ($_SESSION['SuperUsuario']) {
+                case 0:
+                    //  USUARIO COMUN 
                     header('Location:panel.php?panel=socio',true,301);
-                }
-                else
-                {
+                    #echo "loginValidar ok.php";
+                    break;
+                case 1:
+                    //  USUARIO ADMIN
+                    header('Location:panel.php?panel=estadisticas',true,301);
+                    #echo "loginValidar ok.php";
+                    break;
+                case 2:
+                    //  USUARIO SUPERUSUARIO
                     header('Location:panel.php?panel=clientes',true,301);
-                }
-            
+                    #echo "loginValidar ok.php";
+                    break;
+            }
         }        
 ?>

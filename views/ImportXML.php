@@ -1,5 +1,4 @@
 <?php
-    require_once("../models/clsPanelGlobal.php");
     require_once("../models/clsImport.php");
 
     $import = new clsImport();
@@ -21,8 +20,8 @@
     $inserted = 0;
     $err = $import->import_ActividadesSocios($file, $inserted);
     //Importa los Pines 
-    $inserted = 0;
-    $err = $import->import_Pines($file, $inserted);
+    //$inserted = 0;
+    //$err = $import->import_Pines($file, $inserted);
 
     $import->closeCNX();
 

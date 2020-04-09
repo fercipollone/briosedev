@@ -38,8 +38,8 @@
                 {
                   include "Paneles/TableCliente.php";
                 }
-                $resultado->free();
-                $Cliente->closeCNX();
+                //$resultado->free();
+                //$Cliente->closeCNX();
             ?>  
         </div>
       </div>

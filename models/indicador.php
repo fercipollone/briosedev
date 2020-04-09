@@ -54,8 +54,7 @@ class indicador
             while ($fila = $resultado->fetch_assoc()) 
             {    
                 $code .= "<li><i class=\"fa fa-circle-o text-green\">&nbsp;</i>{$fila['cli_Nombre']}<span class=\"pull-right badge bg-green\">30%</span><span class=\"pull-right\">{$fila['cli_idCliente']}&nbsp;&nbsp;</span></li>";
-            }                                  
-            
+            }                                    
             $code .= "</ul>";
             $code .= "</div>";
             $code .= "</div>";

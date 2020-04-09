@@ -16,7 +16,7 @@
             public function closeCNX()
                  {
                     $this->db->desconectar();
-                    //$this->mysqli->close(); 
+                    $this->mysqli->close(); 
                  }
             
 

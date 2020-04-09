@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>339922</soc_idsocio>
+    <cfg_idCliente>5</cfg_idCliente>
+    <Actividad>FUTSAL FEMENINO - ESCUELA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-03T13:15:29.173</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>339922</soc_idsocio>
+    <cfg_idCliente>5</cfg_idCliente>
+    <Actividad>VOLEY FEMENINO - VOLEY FEM ESCUELA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-03T13:15:29.173</FechaAct>
+  </ActividadSocio>
+</ActividadSocio>

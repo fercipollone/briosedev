@@ -7,16 +7,25 @@
 		case "socio":
 			$page_content = 'socioperfil.php';
 			break;
-		//Super Usuarios ----------------------------------------
-		case "estadisticas":
-			$page_content = 'estadisticas.php';
+		case "mercado":
+			$page_content = 'mercadopagor.php';
 			break;
-		case "estadisticasusuarios":
-			$page_content = 'estadisticasusuarios.php';
+		//Usuarios Admin ----------------------------------------
+		case "importcuotas":
+			$page_content = 'importcuotasupload.php';
 			break;
 		case "import":
 			$page_content = 'import.php';
 			break;
+		case "estadisticas":
+			$page_content = 'estadisticas.php';
+			break;
+		//Super Usuarios ----------------------------------------
+		
+		case "estadisticasusuarios":
+			$page_content = 'estadisticasusuarios.php';
+			break;
+		
 		case "socios":
 			$page_content = 'buscarSocios.php';
 			break;

@@ -15,11 +15,8 @@
             
             public function closeCNX()
                  {
-                    //$resp = $this->mysqli->stat();
                     $this->mysqli->close();
-                    //mysqli_close($this->mysqli);
-                    //$this->db->desconectar();
-                    //return $resp;
+                    $this->db->desconectar();
                  }
             
                  
@@ -218,10 +215,25 @@
 
             public function get_Usuario($username, $password, &$respuesta)
                 {  
-                    //usr_nombre es el nro de documento
-                    $qry = "SELECT * FROM vw_sociosusuario WHERE usr_nombre = '{$username}' and usr_clave = '{$password}'";
-                    echo($qry);
-                    $resultado = $this->mysqli->query($qry);  
+                    //Establezco la zona horaria                    
+                    date_default_timezone_set('America/Argentina/Buenos_Aires');
+
+                    //Busco por la tabla Usuario
+                    $qry = "SELECT * FROM vw_usuarios WHERE usr_nombre = '{$username}' and usr_clave = '{$password}' and usr_SuperUsuario > 0";
+                    $superusuario = $this->mysqli->query($qry);
+                    if ($superusuario->num_rows == 0)
+                        {
+                            //usr_nombre es el nro de documento
+                            $qry = "SELECT * FROM vw_sociosusuario WHERE usr_nombre = '{$username}' and usr_clave = '{$password}'";
+                            echo($qry);
+                            echo("<br>");
+                            $resultado = $this->mysqli->query($qry);
+                        }
+                        else
+                        {
+                            $resultado = $superusuario;
+                        }
+
                     if ($resultado->num_rows == 0)
                         {
                             //No hay coincidencias 
@@ -234,9 +246,9 @@
                             if ($fila['hab_idHabilitacion'] == 3)
                             {    
                                 //Creo la variable global para almacenar los datos de Login
-                                
+                                //session_start();
                                 $_SESSION['ClienteId'] = $fila['cli_idcliente'];
-                                $_SESSION['ClienteNombre'] = $fila['cli_Nombre'];
+                                $_SESSION['ClienteNombre'] = $fila['cli_nombre'];
                                 $_SESSION['ClienteLogo'] = $fila['cli_Logo'];
                                 $_SESSION['ClienteXMLFileName'] = $fila['cli_XMLFileName'];
                                 $_SESSION['Skin'] = $fila['cli_skin'];
@@ -247,6 +259,21 @@
                                 $_SESSION['SocioId'] = $fila['soc_idsocio'];
                                 $_SESSION['SocioNombre'] = $fila['soc_apellidoynombre'];
                                 $_SESSION['UsuarioNombre'] = $fila['usr_Nombre'];
+                                $_SESSION['Login'] = false;
+
+                                echo $_SESSION['UsuarioNombre'];
+
+                                switch ($fila['usr_SuperUsuario']) {
+                                    case 0:
+                                        $_SESSION['TipoUsuario'] = 'Socio' ;
+                                        break;
+                                    case 1:
+                                        $_SESSION['TipoUsuario'] = 'Admin' ;
+                                        break;
+                                    case 2:
+                                        $_SESSION['TipoUsuario'] = 'SuperUsuario' ;
+                                        break;
+                                } 
                                  
                                 $resp = 1;
                             }

@@ -5,7 +5,6 @@
 </script>
 
 <?php
-    require_once("../models/clsPanelGlobal.php");
     require_once("../models/clsSocio.php");
     $socios = new clsSocio();
   ?>
