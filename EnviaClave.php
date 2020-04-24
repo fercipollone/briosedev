@@ -9,33 +9,24 @@ require 'PHPMailer/SMTP.php';
 
 $mail = new PHPMailer(true);
 
-$email = "fercipollone@gmail.com";
-$razonSocial = "Hola Mundo";
-$password = "Clave";
+$email = $_GET['mail'];
+$razonSocial = $_GET['razonsocial'];
+$password = $_GET['pass'];
 
 try {
     //Server settings
     //$mail->SMTPDebug = 2;                                       // Enable verbose debug output
-    $mail->SMTPDebug = 2;                                       // Disable verbose debug output
+    $mail->SMTPDebug = 0;                                       // Disable verbose debug output
     $mail->isSMTP();                                            // Set mailer to use SMTP
-    /*
-    $mail->Host       = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
+    $mail->Host       = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-    $mail->Username   = 'fercipollone@gmail.com';                     // SMTP username
-    $mail->Password   = 'Fiorella';                               // SMTP password
+    $mail->Username   = 'info@cecha.org.ar';                     // SMTP username
+    $mail->Password   = 'Pass@info';                               // SMTP password
     $mail->SMTPSecure = 'tls';                                  // Enable TLS encryption, `ssl` also accepted
     $mail->Port       = 587;                                    // TCP port to connect to
-    */
-
-    $mail->Host       = 'smtp.envioclubes.com.ar';                // Specify main and backup SMTP servers
-    $mail->SMTPAuth   = true;                                     // Enable SMTP authentication
-    $mail->Username   = 'club1@envioclubes.com.ar';               // SMTP username
-    $mail->Password   = 'PepeMoni1973-';                          // SMTP password
-    //$mail->SMTPSecure = 'ssl';                                  // Enable TLS encryption, `ssl` also accepted
-    $mail->Port       = 465;                                      // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('test@movilsol.net', 'Sede Virtual');
+    $mail->setFrom('info@cecha.org.ar', 'Resp. Aut. desde CECHA.org.ar');
     //$mail->addAddress('fernando@movilsol.net', 'Fernando');     // Add a recipient
     //$mail->addAddress('contacto@gerenciadeportiva.com.ar');     // Name is optional
     $mail->addAddress($email);     // Name is optional
@@ -61,13 +52,13 @@ try {
 
     $mail->send();
 
-    echo 'Message has been sent';
-    //header("Location:EnviaClaveOK.asp");
+    //echo 'Message has been sent';
+    header("Location:EnviaClaveOK.asp");
     die();
 
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    //header("Location:EnviaClaveFail.asp");
+    //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    header("Location:EnviaClaveFail.asp");
     die();
 }
 

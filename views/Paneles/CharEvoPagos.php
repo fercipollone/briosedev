@@ -8,9 +8,9 @@
 	$resultado1 = $estadistica1->get_PagosPorCliente($_SESSION['ClienteId']);
 	while ($fila1 = $resultado1->fetch_assoc()) 
 	{    
-		$lperiodos .=  "\"" . $fila1['Periodo'] . "\",";
-		$vperiodos .= 	"\"" . $fila1['Socios'] . "\",";
-		$periodo = $fila1['Periodo'];
+		$lperiodos .=  "\"" . $fila1['periodo'] . "\",";
+		$vperiodos .= 	"\"" . $fila1['pagos'] . "\",";
+		$periodo = $fila1['periodo'];
 	}
 	
 	$lperiodos = substr($lperiodos, 0, -1);
@@ -22,7 +22,7 @@
 
 <div class="box box-primary">
         <div class="box-header with-border">
-            <h3 class="box-title">Evolución de accesos</h3>
+            <h3 class="box-title">Evolución de pagos</h3>
 
             <div class="box-tools pull-right">
                 <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>

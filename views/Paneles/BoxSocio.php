@@ -8,7 +8,8 @@
   //echo "</br>";
   
   //$fotoPath = "dist/img/socios/" . $socio['soc_foto'];
-  $fotoPath = "dist/img/socios/" . $_SESSION['ClienteFotoPath'] . "/" . $socio['soc_foto'];
+  //$fotoPath = "dist/img/socios/" . $_SESSION['ClienteFotoPath'] . "/" . $socio['soc_foto'];
+  $fotoPath = "../../briolite/views/dist/img/socios/" . $_SESSION['ClienteFotoPath'] . "/" . $socio['soc_foto'];
   //echo("fotopath:" . $fotoPath);
 
   //Ultimo Periodo Pago 
@@ -16,7 +17,7 @@
 
   if (!file_exists($fotoPath)) 
     {
-      $fotoPath = "dist/img/socios/usuario.jpg";
+      $fotoPath = "dist/img/socios/usuario.jpg";    
     } 
     
   if (strtotime($socio['soc_fechatopehabilitacion']) >= strtotime(date("Ymd")))
@@ -103,7 +104,4 @@
         </div>
     </div>
       <!-- /.box-body -->
-
-
-    
 </div>

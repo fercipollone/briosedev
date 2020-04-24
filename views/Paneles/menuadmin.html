@@ -2,16 +2,16 @@
     <li class="header">Paneles</li>
     
     <li class="treeview">
-        <a href="#"><i class="fa fa-database"></i> <span>Datos</span>
-          <span class="pull-right-container">
-            <i class="fa fa-angle-left pull-right"></i>
-          </span>
-        </a>
-        <ul class="treeview-menu">
-            <li><a href="panel.php?panel=import">Importar Datos Socios</a></li>
-            <li><a href="panel.php?panel=importcuotas">Importar Pagos</a></li>
-            <li><a href="panel.php?panel=exportpagos">Descargar Pagos</a></li>
-        </ul>
+      <a href="#"><i class="fa fa-database"></i> <span>Datos</span>
+        <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i>
+        </span>
+      </a>
+      <ul class="treeview-menu">
+          <li><a href="panel.php?panel=list&i=usu">Usuarios</a></li>
+          <li><a href="panel.php?panel=list&i=pag">Pagos</a></li>
+          <li><a href="panel.php?panel=list&i=cuot">Cuotas</a></li>
+      </ul>
     </li>
 
     <li class="treeview">
@@ -25,6 +25,31 @@
         <li><a href="panel.php?panel=estadisticas">Pagos Realizados</a></li>
       </ul>
     </li>
+
+    <li class="treeview">
+      <a href="#"><i class="fa fa-cloud-download"></i> <span>Descargar</span>
+        <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i>
+        </span>
+      </a>
+      <ul class="treeview-menu">
+          <li><a href="panel.php?panel=exportpagos">Descargar Pagos</a></li>
+      </ul>
+    </li>
+
+    <li class="treeview">
+        <a href="#"><i class="fa fa-cloud-upload"></i> <span>Importar</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+            <li><a href="panel.php?panel=import">Importar Datos Socios</a></li>
+            <li><a href="panel.php?panel=importcuotas">Importar Cuotas</a></li>
+        </ul>
+    </li>
+
+    
 
     <li>
       <a href="login.php"><i class="fa fa-close"></i><span>Cerrar Sessión</span></a>

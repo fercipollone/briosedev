@@ -11,8 +11,8 @@
                      require_once("../models/cnx.php");
                      $this->db = new cnx(); 
                      $this->mysqli = $this->db->conectar();  
-                     $this->path = "xml/";
-                    //$this->path = "C:\\Inetpub\\vhosts\\softwareclubes.com.ar\\cgi-bin\\xml\\";
+                     //$this->path = "xml/";
+                    $this->path = "C:\\Inetpub\\vhosts\\softwareclubes.com.ar\\cgi-bin\\xml\\";
                  }
                 
             public function closeCNX()
@@ -25,7 +25,6 @@
                  {  
                     
                     set_time_limit(3000);
-                    //$file = $_GET['name'];
                     $this->flushN();
 
                     $xml_file = $this->path . $filename;
@@ -257,7 +256,7 @@
                                 };
                     
                     //Eliminar los pagos pendientes que no se cerraron 
-                    $qry = "DELETE FROM pago WHERE cli_idCliente = " . $_SESSION['ClienteId'] . " AND pag_estado = 0";
+                    $qry = "DELETE FROM pagos WHERE cli_idCliente = " . $_SESSION['ClienteId'] . " AND pag_estado = 0";
                     if (!$this->mysqli->query($qry))
                                 {
                                     echo $this->mysqli->error . "\n";
@@ -344,11 +343,11 @@
                     echo "-------------------------------------------</br>";
                     echo " CUOTAS IMPORTADAS </br> ";
                     echo "-------------------------------------------</br>";
-                    echo "Total de Actividades importadas: $linea </br>";
+                    echo "Total de cuotas importadas: $linea </br>";
                     echo "Total de errores: $err  </br>";
                     echo "------------------------------------------- </br>";
                                         
-                    $inserts = $count - $err;
+                    $inserts = $linea - $err;
                     return $err;
                 }
             

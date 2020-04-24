@@ -49,6 +49,22 @@
                     return $resultado;
                 }
             
+            public function buscarCuotas($idCliente, $idSocio)
+                {
+                    
+                    $qry = "SELECT * FROM cuotas WHERE soc_idSocio = {$idSocio} and cli_idCliente = {$idCliente} ORDER BY cso_socio, cso_descripcion";
+                    $resultado = $this->mysqli->query($qry);                    
+                    return $resultado;
+                }
+
+            public function buscarPagos($idCliente, $idSocio)
+                {                    
+                    $qry = "SELECT * FROM pagos WHERE pag_estado > 0 AND soc_idSocio = {$idSocio} and cli_idCliente = {$idCliente} ORDER BY pag_fechahora";
+                    //echo $qry;
+                    $resultado = $this->mysqli->query($qry);                    
+                    return $resultado;
+                }
+            
             public function ActualizarPago($qry,$idpago,$pag_estado)
                 {
                     //Ejecuto el UPDATE que viene dese mercadopagor.php para actualizar el PAGO
@@ -103,6 +119,44 @@
                     $total = $t['total'];
                     $resultadototal->free();
                     return $total;
+                }
+
+            public function SeleccionarPeriodosPagos($idCliente)
+                {                    
+                    $qry = "SELECT periodopago, count(distinct pago_id) as cantidad, count(cuotadetalle_id) as cuotas, sum(importe) as total FROM vw_pagos WHERE cliente_id = {$idCliente} GROUP BY	periodopago ORDER BY periodopago DESC";
+                    //echo $qry;
+                    $resultado = $this->mysqli->query($qry);                    
+                    return $resultado;
+                }
+            
+            public function PagosxPeriodo($idCliente, $periodo, &$cantidad)
+                {                    
+                    $qry = "SELECT count(pago_id) as cantidad FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo}";
+                    $resultadototal = $this->mysqli->query($qry);
+                    $t = $resultadototal->fetch_assoc();
+                    $cantidad = $t['cantidad'];
+                    $resultadototal->free();
+                                        
+                    $qry = "SELECT * FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo}";
+                    $resultado = $this->mysqli->query($qry);                    
+                    return $resultado;
+                }
+            
+            public function ExportPagos($idCliente, $periodo, $file)
+                {                    
+                    #OPTIONALLY ENCLOSED BY '"'
+                    
+                    $qry="
+                    SELECT * INTO OUTFILE '{$file}'
+                    FIELDS TERMINATED BY ',' 
+                    LINES TERMINATED BY '\\n'
+                    FROM vw_pagos
+                    WHERE cliente_id = {$idCliente} AND periodopago = {$periodo}
+                    ";          
+                    
+                    echo $qry;
+                    //$resultado = $this->mysqli->query($qry);                    
+                    //return $resultado;
                 }
          }
 ?>      

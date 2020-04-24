@@ -2,7 +2,7 @@
 <html>
 
 <?php 
-  include("head.php");
+  include("headlogin.php");
   session_destroy();
 ?>
 
@@ -45,22 +45,22 @@
       </div>
 
       <div class="form-group has-feedback">
-        <input name="documentonro" id="documentonro" type="number" min="100000" max="90000000" class="form-control" placeholder="Nro de Documento" required value="26461153">
+        <input name="documentonro" id="documentonro" type="number" min="100000" max="90000000" class="form-control" placeholder="Nro de Documento" required>
         <span class="glyphicon glyphicon-user form-control-feedback"></span>
       </div>
 
       <div class="form-group has-feedback">
-        <input name="email" id="email" type="email" class="form-control" placeholder="Correo Electronico" required value="fernando@movilsol.net">
+        <input name="email" id="email" type="email" class="form-control" placeholder="Correo Electronico" required>
         <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
       </div>
       
       <div class="form-group has-feedback">
-        <input name="clave" id="clave" type="password" class="form-control" placeholder="Contraseña" required value="fernando2020">
+        <input name="clave" id="clave" type="password" class="form-control" placeholder="Contraseña" required>
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
 
       <div class="form-group has-feedback">
-        <input name="reclave" id="reclave" type="password" class="form-control" placeholder="Repetir Contraseña" required value="fernando2020">
+        <input name="reclave" id="reclave" type="password" class="form-control" placeholder="Repetir Contraseña" required>
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
 
@@ -127,18 +127,20 @@
         return false;
       }
 
-      if(clave.length < 6) {
-        alert("La clave debe contener al menos 6 caracteres");
+      if(clave.length < 4) {
+        alert("La clave debe contener al menos 4 caracteres");
         document.forms["RF"]["clave"].focus();
         return false;
       }
-        
+
+      /*  
       re = /[0-9]/;
       if(!re.test(clave)) {
         alert("La clave contener al menos un número");
         document.forms["RF"]["clave"].focus();
         return false;
       }
+      */
         
       if (clave != reclave) {          
           alert("Las confirmación de la clave debe ser igual a la clave");

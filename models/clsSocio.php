@@ -79,55 +79,56 @@
                                 }
                             
                         }
-                        else
+                    else
                         { 
                             $this->get_buscarSocioPorNombre($idCliente, $filtro, $resultado);
                             return $resultado;                            
-                         }
+                        }
 
-                    }
+                }
+                    
             
             private function get_buscarSocioPorNroSocio($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM socio WHERE soc_nrosocio = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre ";
-                $resultado = $this->mysqli->query($qry);  
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM socio WHERE soc_nrosocio = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre ";
+                    $resultado = $this->mysqli->query($qry);  
+                    return $resultado->num_rows;
+                }
 
             private function get_buscarSocioPorDocumento($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM socio WHERE soc_documento = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
-                $resultado = $this->mysqli->query($qry);  
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM socio WHERE soc_documento = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
+                    $resultado = $this->mysqli->query($qry);  
+                    return $resultado->num_rows;
+                }
 
             private function get_buscarSocioPorPin($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM socio WHERE soc_pin = {intval($filtro)} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
-                $resultado = $this->mysqli->query($qry);
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM socio WHERE soc_pin = {intval($filtro)} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
+                    $resultado = $this->mysqli->query($qry);
+                    return $resultado->num_rows;
+                }
 
             private function get_buscarSocioPorPines($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM vw_sociospines WHERE pin_pin = {intval($filtro)} and cli_idCliente = {$idCliente}";
-                $resultado = $this->mysqli->query($qry);
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM vw_sociospines WHERE pin_pin = {intval($filtro)} and cli_idCliente = {$idCliente}";
+                    $resultado = $this->mysqli->query($qry);
+                    return $resultado->num_rows;
+                }
 
             private function get_buscarSocioPorId($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM socio WHERE soc_idSocio = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
-                $resultado = $this->mysqli->query($qry);  
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM socio WHERE soc_idSocio = {$filtro} and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
+                    $resultado = $this->mysqli->query($qry);  
+                    return $resultado->num_rows;
+                }
 
             private function get_buscarSocioPorNombre($idCliente, $filtro, &$resultado)
-            {
-                $qry = "SELECT * FROM socio WHERE soc_apellidoynombre like '%{$filtro}%' and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
-                $resultado = $this->mysqli->query($qry);  
-                return $resultado->num_rows;
-            }
+                {
+                    $qry = "SELECT * FROM socio WHERE soc_apellidoynombre like '%{$filtro}%' and cli_idCliente = {$idCliente} ORDER BY soc_apellidoynombre";
+                    $resultado = $this->mysqli->query($qry);  
+                    return $resultado->num_rows;
+                }
 
             
 

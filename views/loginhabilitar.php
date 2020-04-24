@@ -1,7 +1,7 @@
 <?php
     
-    $cliente_id = htmlspecialchars($_POST["cliente_id"]); 
-    $socio_id = htmlspecialchars($_POST["socio_id"]); 
+    $cliente_id = htmlspecialchars($_GET["cliente_id"]); 
+    $socio_id = htmlspecialchars($_GET["socio_id"]); 
         
     /*
     echo("Cliente id: " . $cliente_id);
@@ -20,7 +20,7 @@
 <html>
 
 <?php 
-  include("head.php");
+  include("headlogin.php");
   session_destroy();
 ?>
 

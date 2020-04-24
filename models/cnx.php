@@ -11,16 +11,16 @@ class cnx
         {
             
             //SERVER 
-            //$servername = "66.206.4.138";
+            $servername = "66.206.4.138";
+            //$servername = "localhost";
+            $database = "briosedev";
+            $username = "sedev";
+            $password = "Pass@s2020";
+            //XAMPP
             //$servername = "localhost";
             //$database = "briosedev";
-            //$username = "sedev";
-            //$password = "Pass@s2020";
-            //XAMPP
-            $servername = "localhost";
-            $database = "briosedev";
-            $username = "fer";
-            $password = "fer";
+            //$username = "fer";
+            //$password = "fer";
             
             //Create connection con mysqli
             $this->mysqlicnx = new mysqli($servername,  $username, $password, $database);

@@ -16,10 +16,49 @@
             public function closeCNX()
                  {
                     $this->db->desconectar();
-                    $this->mysqli->close();   
+                    //$this->mysqli->close();   
                  }
             
+            
+            public function get_PagosPorCliente($idCliente)
+                 {  
+                     $qry = "SELECT periodopago as periodo, SUM(importe) as pagos FROM briosedev.vw_pagos WHERE estadopago_id = 2 AND cliente_id = ({$idCliente}) GROUP BY periodopago ORDER BY periodopago DESC;";
+                     //$this->mysqli->store_result();
+                     $resultado = $this->mysqli->query($qry);  
+                     return $resultado;                            
+                 }
+            
+            public function get_TasaPeriodo($idCliente, &$pendiente, &$cobrado)
+                 {  
+                    $pendiente = 0;
+                    $cobrado = 0;
 
+                    $qry = "SELECT sum(cso_importe) as TotalPendiente FROM cuotas WHERE cso_estado = 1 AND cli_idCliente = {$idCliente}";
+                    $resultado = $this->mysqli->query($qry);
+                     
+                    if ($resultado->num_rows > 0)
+                        {
+                            $r = $resultado->fetch_assoc();
+                            $pendiente = $r['TotalPendiente'];
+                        }                      
+                    
+                    $resultado->free();
+
+                    $qry = "SELECT SUM(importe) as TotalCobrado FROM briosedev.vw_pagos WHERE estadopago_id = 2 AND cliente_id = {$idCliente} AND periodopago = DATE_FORMAT(now(), '%Y%m');";
+                    $resultado = $this->mysqli->query($qry);
+                     
+                    if ($resultado->num_rows > 0)
+                        {
+                            $r = $resultado->fetch_assoc();
+                            $cobrado = $r['TotalCobrado'];
+                        }                      
+                    
+                    $resultado->free();
+                     
+                    return TRUE;                            
+                 }
+
+            
             public function get_lecturasPorCliente($idCliente)
                 {  
                     $qry = "call sp_LecturasPorCliente({$idCliente})";

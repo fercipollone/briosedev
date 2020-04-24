@@ -1,10 +1,6 @@
 <?php
 
-    $tipodocumento = htmlspecialchars($_POST["tipodocumento"]); 
-    $sexo = htmlspecialchars($_POST["sexo"]); 
-    $documentonro = htmlspecialchars($_POST["documentonro"]); 
     $email = htmlspecialchars($_POST["email"]); 
-    $clave = htmlspecialchars($_POST["clave"]); 
     $recaptcha = $_POST["g-recaptcha-response"];
 
     //echo "Respuesta de Captcha: ".$recaptcha;
@@ -36,18 +32,10 @@
       //die;
     }
     
-    /*
-    echo("Tipo Documento: " . $tipodocumento);
-    echo("Documento: " . $documentonro);
-    echo("sexo: " . $sexo);
-    echo("email: " . $email);
-    echo("clave: " . $clave);
-    */
-    
     require_once("../models/clsUser.php");
     
     $user = new clsUser();
-    $resp = $user->ValidarUsuarioNuevo($tipodocumento, $documentonro, $sexo, $respuesta, $email, $clave, $color, $titulo);
+    $resp = $user->ValidarEmail($email, $titulo, $color, $respuesta);
     $user->closeCNX();
 ?>
 

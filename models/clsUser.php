@@ -41,13 +41,12 @@
                     else    
                         {
                             $socio = $resultado->fetch_assoc();
-                                                       
                             switch (true) 
                             {
                                 // 1 - Sin Hablitar
                                 case $socio['hab_idHabilitacion'] == 1:
                                     $this->ActivarSocioUsuario($socio, $email, $clave);
-                                    //$this->EnvioDeCredenciales($socio, $email, $clave);
+                                    $this->EnvioBotonDeActivacion($socio, $email);
                                     $titulo = "<h4><i class=\"icon fa fa-check\"></i>Usuario registrado, falta activación</h4>";
                                     $respuesta = "Sus datos se han registrado correctamente.<br>IMPORTANTE: Se ha enviado un email a {$email} para que pueda activar su cuenta";
                                     $resp = true;
@@ -55,7 +54,7 @@
                                     break;
                                 // 2 - Pendiente Habilitación
                                 case $socio['hab_idHabilitacion'] == 2:
-                                    //$this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
+                                    $this->EnvioBotonDeActivacion($socio, $socio['usr_Email']);
                                     $titulo = "<h4><i class=\"icon fa fa-warning\"></i>Proceso ya iniciado</h4>";
                                     $respuesta = "Ya se ha inciado un proceso anterior de activación, volvemos a enviar un email a {$socio['usr_Email']} para que pueda activar su cuenta";
                                     $resp = false;
@@ -63,7 +62,7 @@
                                     break;
                                 // 3 - Habilitado
                                 case $socio['hab_idHabilitacion'] == 3:
-                                    //$this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
+                                    $this->EnvioDeCredenciales($socio, $socio['usr_Email'], $socio['usr_Clave']);
                                     $titulo = "Cuenta ya Activa";
                                     $respuesta = "Esta intentanto activar un socio que ya se encuentra activado, enviamos sus credenciales al correo previamente registrado: {$socio['usr_Email']}";
                                     $color = "bg-warning";
@@ -72,7 +71,7 @@
                                 // Null - Sin Hablitar
                                 case is_null($socio['hab_idHabilitacion']):
                                     $this->ActivarSocioUsuario($socio, $email, $clave);
-                                    //$this->EnvioDeCredenciales($socio, $email, $clave);
+                                    $this->EnvioBotonDeActivacion($socio, $email);
                                     $titulo = "<h4><i class=\"icon fa fa-check\"></i>Usuario registrado, falta activación</h4>";
                                     $respuesta = "Sus datos se han registrado correctamente.<br>IMPORTANTE: Se ha enviado un email a {$email} para que pueda activar su cuenta";
                                     $color = "alert alert-success alert-dismissible";
@@ -89,7 +88,7 @@
                     return $resp;
                 }
             
-                public function ValidarActivacion($socio_id, $cliente_id, &$titulo, &$color, &$respuesta)
+            public function ValidarActivacion($socio_id, $cliente_id, &$titulo, &$color, &$respuesta)
                 {
                     $resultado = [];
                     //buscar si esa en la BD de algun club 
@@ -109,13 +108,12 @@
                     else    
                         {
                             $socio = $resultado->fetch_assoc();
+                            $clave = $socio['usr_Clave'];
                                                        
                             switch (true) 
                             {
                                 // 1 - Sin Hablitar
                                 case $socio['hab_idHabilitacion'] == 1:
-                                    //$this->ActivarSocioUsuario($socio, $email, $clave);
-                                    //$this->EnvioDeCredenciales($socio, $email, $clave);
                                     $titulo = "<h4><i class=\"icon fa fa-warning\"></i>Usuario sin activación o alta</h4>";
                                     $respuesta = "Sus datos no se han registrados correctamente en el proceso de activación";
                                     $resp = false;
@@ -123,7 +121,7 @@
                                     break;
                                 // 2 - Pendiente Habilitación
                                 case $socio['hab_idHabilitacion'] == 2:
-                                    //$this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
+                                    $this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
                                     $this->HabilitarSocioUsuario($socio_id, $cliente_id);
                                     $titulo = "<h4><i class=\"icon fa fa-check\"></i>Proceso finalizado con exito !!!</h4>";
                                     $respuesta = "Muchisimas gracias. Hemos concluido el proceso de verificación de su cuenta, dirijase a la pantalla de login e ingrese sus credenciales para acceder a las sede virtual.";
@@ -132,7 +130,7 @@
                                     break;
                                 // 3 - Habilitado
                                 case $socio['hab_idHabilitacion'] == 3:
-                                    //$this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
+                                    $this->EnvioDeCredenciales($socio, $socio['usr_Email'], $clave);
                                     $titulo = "<h4><i class=\"icon fa fa-warning\"></i>Cuenta ya Activa</h4>";
                                     $respuesta = "Esta intentanto activar un socio que ya se encuentra habilitado para acceder, dirijase a la pantalla de login con sus credenciales";
                                     $color = "alert alert-warning alert-dismissible";
@@ -169,21 +167,25 @@
                    $this->mysqli->query($qry);
                 }
 
-            public function EnvioDeCredenciales($socio, $email, $clave)
+            public function EnvioBotonDeActivacion($socio, $email)
                 {
-                    /*
                     require_once("../models/clsMailer.php");
                     
-                    $from = "tuclub@gmail.com";
+                    $from = $socio['cli_email'];
                     
                     $subject = "Envio de creedenciales a {$socio['soc_apellidoynombre']} de {$socio['cli_nombre']}";
-                    $body =  "Estimado {$socio['cli_nombre']} ¡Gracias por visitarnos y hacer su registro para nuestra sede virtual! Estamos contentos de que pueda usar esta opción de autogestión. Nuestro objetivo es que siempre esté satisfecho, y que puedas disfrutar de las instalaciones del club sin tener que pierda tiempo en la administración. ";
-                    $body =  $body . "Haga clic aquí para terminar el trámite de activación:";
-                    $body =  $body . "http:\\www.google.com";
-                    $body =  $body . " Atentamente, El equipo de administración";
+                    $body = "
+                            <p>Hola <b>{$socio['soc_apellidoynombre']}</b></p>
+                            <p>Gracias por visitarnos y hacer su registro para nuestra sede virtual</p>
+                            <p>Estamos felices de que pueda usar esta opci&oacute;n de autogesti&oacute;n. Nuestro objetivo es que siempre est&eacute; satisfecho, y que puedas disfrutar de las instalaciones del club sin tener que perder tiempo en la administraci&oacute;n.</p>
+                            <p>Haga clic aqu&iacute; para terminar el tr&aacute;mite de activaci&oacute;n:</p>  
+                            <p style='text-align: center;'><br>
+                                <a class='boton_personalizado' href='http://www.softwareclubes.com.ar/briosedev/views/loginhabilitar.php?socio_id={$socio['soc_idsocio']}&cliente_id={$socio['cli_idcliente']}'>Activar la cuenta</a>
+                            </p>
+                            ";
 
                     $mailer = new clsMailer(); 
-                    if ($mailer->Enviar($from, $email, $subject, $body))
+                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email']))
                         {
                             $resp = "Envio exitoso";
                         }  
@@ -193,7 +195,44 @@
                         }
                     
                     return $resp;
-                    */
+                }
+            
+            public function EnvioDeCredenciales($socio, $email, $clave)
+                {
+                    require_once("../models/clsMailer.php");
+                    
+                    $from = $socio['cli_email'];
+                    
+                    $subject = "Envio de creedenciales a {$socio['soc_apellidoynombre']} de {$socio['cli_nombre']}";
+                    $body = "
+                            <p>Hola <b>{$socio['soc_apellidoynombre']}</b></p>
+                            <p>Gracias por visitarnos a nuestra sede virtual.</p> 
+                            <p>Estamos felices de que pueda usar esta opci&oacute;n de autogesti&oacute;n. Nuestro objetivo es que siempre est&eacute; satisfecho, y que puedas disfrutar de las instalaciones del club sin tener que perder tiempo en la administraci&oacute;n.</p>
+                            <p>Sus credenciales de acceso son las siguientes:</p>  
+                            <p>
+                                Usuario: {$socio['usr_Nombre']}<br>
+                                Clave: {$clave}
+                            </p>
+
+                            <p style='text-align: center;'>
+                                <br>
+                                <a class='boton_personalizado' href='http://www.softwareclubes.com.ar/briosedev/'>
+                                Acceder 
+                                </a>
+                            </p>
+                            ";
+
+                    $mailer = new clsMailer(); 
+                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email']))
+                        {
+                            $resp = "Envio exitoso";
+                        }  
+                    else
+                        {
+                            $resp = "Fracaso el envio";
+                        }
+                    
+                    return $resp;
                 }
             
             public function ActivarSocioUsuario($socio, $email, $clave)
@@ -216,7 +255,7 @@
             public function get_Usuario($username, $password, &$respuesta)
                 {  
                     //Establezco la zona horaria                    
-                    date_default_timezone_set('America/Argentina/Buenos_Aires');
+                    //date_default_timezone_set('America/Argentina/Buenos_Aires');
 
                     //Busco por la tabla Usuario
                     $qry = "SELECT * FROM vw_usuarios WHERE usr_nombre = '{$username}' and usr_clave = '{$password}' and usr_SuperUsuario > 0";
@@ -225,8 +264,8 @@
                         {
                             //usr_nombre es el nro de documento
                             $qry = "SELECT * FROM vw_sociosusuario WHERE usr_nombre = '{$username}' and usr_clave = '{$password}'";
-                            echo($qry);
-                            echo("<br>");
+                            //echo($qry);
+                            //echo("<br>");
                             $resultado = $this->mysqli->query($qry);
                         }
                         else
@@ -237,7 +276,7 @@
                     if ($resultado->num_rows == 0)
                         {
                             //No hay coincidencias 
-                            $respuesta = "No existen registros asociados con ese número de documento y esa clave";
+                            $respuesta = "No existen registros asociados con ese número de documento y esa clave.";
                         }
                     else
                         {                            
@@ -245,36 +284,8 @@
                             //Si es estado es Habilitado pasa
                             if ($fila['hab_idHabilitacion'] == 3)
                             {    
-                                //Creo la variable global para almacenar los datos de Login
                                 //session_start();
-                                $_SESSION['ClienteId'] = $fila['cli_idcliente'];
-                                $_SESSION['ClienteNombre'] = $fila['cli_nombre'];
-                                $_SESSION['ClienteLogo'] = $fila['cli_Logo'];
-                                $_SESSION['ClienteXMLFileName'] = $fila['cli_XMLFileName'];
-                                $_SESSION['Skin'] = $fila['cli_skin'];
-                                $_SESSION['SkinCSS'] = $fila['cli_skincss'];
-                                $_SESSION['ClienteFotoPath'] = $fila['cli_FotoPath'];
-                                $_SESSION['UsuarioId'] = $fila['usr_idUsuario'];  
-                                $_SESSION['SuperUsuario'] = $fila['usr_SuperUsuario'];
-                                $_SESSION['SocioId'] = $fila['soc_idsocio'];
-                                $_SESSION['SocioNombre'] = $fila['soc_apellidoynombre'];
-                                $_SESSION['UsuarioNombre'] = $fila['usr_Nombre'];
-                                $_SESSION['Login'] = false;
-
-                                echo $_SESSION['UsuarioNombre'];
-
-                                switch ($fila['usr_SuperUsuario']) {
-                                    case 0:
-                                        $_SESSION['TipoUsuario'] = 'Socio' ;
-                                        break;
-                                    case 1:
-                                        $_SESSION['TipoUsuario'] = 'Admin' ;
-                                        break;
-                                    case 2:
-                                        $_SESSION['TipoUsuario'] = 'SuperUsuario' ;
-                                        break;
-                                } 
-                                 
+                                $this->loadsession($fila);  
                                 $resp = 1;
                             }
                             else
@@ -289,6 +300,72 @@
                     return $resp;
                 }
             
+            public function reloadsession($idpago)
+                {
+                    #Busco los datos del socio mediante el id de pago 
+                    $qry = "SELECT * FROM pagos WHERE pag_idpago = {$idpago}";
+                    $resultado = $this->mysqli->query($qry);
+                    $datos = $resultado->fetch_assoc();
+
+
+                    $qry = "SELECT * FROM vw_sociosusuario WHERE soc_idsocio = {$datos['soc_idsocio']} and cli_idcliente = {$datos['cli_idcliente']}";
+                    $resultado->free();
+
+                    $rs = $this->mysqli->query($qry);
+                    $fila = $rs->fetch_assoc();
+
+                    $this->loadsession($fila);
+                    
+                    $rs->free();
+                    $this->closeCNX();
+                }
+
+            public function loadsession($fila)
+                {
+                    //Creo la variable global para almacenar los datos de Login
+                    //session_start();
+                    $_SESSION['ClienteId'] = $fila['cli_idcliente'];
+                    $_SESSION['ClienteNombre'] = $fila['cli_nombre'];
+                    $_SESSION['ClienteLogo'] = $fila['cli_Logo'];
+                    $_SESSION['ClienteMPSandbox'] = $fila['cli_mp_sandbox'];
+                    $_SESSION['ClienteMPPublicKey'] = $fila['cli_mp_publickey'];
+                    $_SESSION['ClienteMPAccessToken'] = $fila['cli_mp_accesstoken'];
+                    $_SESSION['ClienteXMLFileName'] = $fila['cli_XMLFileName'];
+                    $_SESSION['Skin'] = $fila['cli_skin'];
+                    $_SESSION['SkinCSS'] = $fila['cli_skincss'];
+                    $_SESSION['ClienteFotoPath'] = $fila['cli_FotoPath'];
+                    $_SESSION['UsuarioId'] = $fila['usr_idUsuario'];  
+                    $_SESSION['SuperUsuario'] = $fila['usr_SuperUsuario'];
+                    $_SESSION['SocioId'] = $fila['soc_idsocio'];
+                    $_SESSION['SocioNombre'] = $fila['soc_apellidoynombre'];
+                    $_SESSION['UsuarioNombre'] = $fila['usr_Nombre'];
+                                                                        
+                    switch ($fila['usr_SuperUsuario']) {
+                        case 0:
+                            $_SESSION['TipoUsuario'] = 'Socio' ;
+                                switch ($fila['tso_idtiposocio']) {
+                                    //Socio Unico
+                                    case 1:
+                                        $_SESSION['Cuotas_Socio_id'] = $fila['soc_idsocio'];
+                                        break;
+                                    //Miembro 
+                                    case 2:
+                                        $_SESSION['Cuotas_Socio_id'] = $fila['soc_idsociotitular'];
+                                        break;
+                                    //Titular
+                                    case 3:
+                                        $_SESSION['Cuotas_Socio_id'] = $fila['soc_idsocio'];
+                                        break;
+                                }
+                            break;
+                        case 1:
+                            $_SESSION['TipoUsuario'] = 'Admin' ;
+                            break;
+                        case 2:
+                            $_SESSION['TipoUsuario'] = 'SuperUsuario' ;
+                            break;
+                    } 
+                }
 
 
             public function get_Usuarios()
@@ -297,6 +374,62 @@
                    $resultado = $this->mysqli->query($qry);  
                    return $resultado;
                 }
-         }
+            
+            public function get_UsuariosClientes($cliente_id)
+                {
+                   $qry = "SELECT * FROM vw_usuarios WHERE cli_idCliente = {$cliente_id} ORDER BY cli_Nombre";
+                   $resultado = $this->mysqli->query($qry);  
+                   return $resultado;
+                }
+         
+            public function ValidarEmail($email, &$titulo, &$color, &$respuesta)
+                {
+                    $resultado = [];
+                    //buscar si esa en la BD de algun club 
+                    $resp = false;
+                    $qry = "SELECT * FROM vw_sociosusuario WHERE usr_Email = '{$email}'";
+                    
+                    //echo($qry);
+                    $resultado = $this->mysqli->query($qry); 
+
+                    if ($resultado->num_rows == 0)
+                        {
+                            $titulo = "Atención";
+                            $titulo = "<h4><i class=\"icon fa fa-ban\"></i>No hay coincidencias</h4>";
+                            $respuesta = "No existe ningún email {$email} en nuestra base de datos";
+                            $color = "alert alert-danger alert-dismissible";
+                        }
+                    else    
+                        {
+                            while ($socio = $resultado->fetch_assoc())
+                            {
+                                $this->EnvioDeCredenciales($socio, $socio['usr_Email'], $socio['usr_Clave']);
+                            }
+                            
+                            $titulo = "<h4><i class=\"icon fa fa-check\"></i>Proceso finalizado con exito !!!</h4>";
+                            $respuesta = "Sus credenciales han sido enviadas a su casilla de correo {$socio['usr_Email']}. Muchisimas gracias";
+                            $resp = true;
+                            $color = "alert alert-success alert-dismissible";
+                        }
+                    return $resp;
+                } 
+
+            public function CambiarClave($usuario_id, $clave, $clavenueva)
+                {
+                    $qry = "SELECT * FROM vw_sociosusuario WHERE usr_idUsuario = {$usuario_id} AND usr_Clave = '{$clave}'";
+                    $resultado = $this->mysqli->query($qry); 
+                    if ($resultado->num_rows == 0)
+                        {
+                            $resultado->free;
+                            return false;
+                        }
+                    else    
+                        {
+                            $qry = "UPDATE usuario SET usr_Clave = '{$clavenueva}' WHERE usr_idUsuario = {$usuario_id}";
+                            $this->mysqli->query($qry); 
+                            return true;
+                        }
+                }
+        }
 
 ?>      

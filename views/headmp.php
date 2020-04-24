@@ -1,13 +1,15 @@
 <?php
+   //ob_start();
    session_start();
    
-    if (!isset($_SESSION['ClienteLogo']))
-    {
-      header('Location: login.php');
-      //echo "Valido head.php redireccion";
-    }
-   
-    //ob_start();
+   if(isset($_GET["idpago"]))
+  {
+    require_once("../models/clsUser.php");
+    
+    $user = new clsUser();
+    $resp = $user->reloadsession($_GET["idpago"]);
+    $user->closeCNX();   
+  } 
 ?>
 
 <head>
@@ -62,4 +64,5 @@
   <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 
+        
 </head>

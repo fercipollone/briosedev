@@ -44,7 +44,7 @@
                             $pag_estado = 2;
                             $style = "callout callout-success";
                             $titulo = "Pago exitoso";
-                            $mensaje = "Su pago resulto exitosos bajo el ID de Mercado Pago: {$merchant_order_id}.";
+                            $mensaje = "Su pago resulto exitosos bajo el ID de Mercado Pago: {$collection_id}.";
                         }
                     else
                         {
@@ -53,7 +53,7 @@
                                     $pag_estado = 2;
                                     $style = "callout callout-success";
                                     $titulo = "Pago exitoso";
-                                    $mensaje = "Su pago resulto exitosos bajo el ID de Mercado Pago: {$merchant_order_id}.";
+                                    $mensaje = "Su pago resulto exitosos bajo el ID de Mercado Pago: {$collection_id}.";
                                     break;
                                 case 'fail':
                                     $pag_estado = 0;
@@ -65,13 +65,13 @@
                                         $pag_estado = 1;
                                         $style = "callout callout-success";
                                         $titulo = "Pago pendiente";
-                                        $mensaje = "Su pago esta en estado pendiente bajo el ID de Mercado Pago: {$merchant_order_id}.";
+                                        $mensaje = "Su pago esta en estado pendiente bajo el ID de Mercado Pago: {$collection_id}.";
                                         break;
                                 default:
                                     $pag_estado = 1;
                                     $style = "callout callout-success";
                                     $titulo = "Pago pendiente";
-                                    $mensaje = "Su pago esta en estado pendiente bajo el ID de Mercado Pago: {$merchant_order_id}.";
+                                    $mensaje = "Su pago esta en estado pendiente bajo el ID de Mercado Pago: {$collection_id}.";
                             } 
                         }
                     
@@ -96,6 +96,14 @@
 
                     $cuota->ActualizarPago($qry,$idPago,$pag_estado);
                     $cuota->closeCNX();
+                    
+                    /*
+                    require_once("../models/clsSocio.php");
+                    $socio = new clsSocio();
+                    $cuota->ActualizarEstado($qry,$idPago,$pag_estado);
+                    $cuota->closeCNX();
+                    */
+
                 }
         }
 ?>
@@ -105,10 +113,6 @@
     }
 </script>
 
-<?php
-    require_once("../models/clsSocio.php");
-    $socios = new clsSocio();
-  ?>
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
@@ -137,11 +141,8 @@
             <img class="profile-user-img img-responsive img-circle" src="<?php echo $LogoFullPath; ?>" alt="logo">
             <h3 class="profile-username text-center"><?php echo $_SESSION['ClienteNombre'];?></h3>
             <p class="text-muted text-center"><?php echo "Su club le agradece por realizar la gestión a traves de esta plataforma." ?></p>
+            <p class="text-muted text-center"><?php echo "Recuerde que los datos se van a actualizar una vez que el club procese los datos." ?></p>
 
-        <!-- 
-            callout callout-warning 
-            callout callout-success
-        -->
             <div class="<?php echo $style; ?>">
             <h4><?php echo $titulo; ?></h4>
             <p><?php echo $mensaje;?></p>
@@ -152,8 +153,6 @@
         <!-- /.box-body -->
         </div>
     </div>
-
-
       <!-- /.row (main row) -->    
     </section>
 <!-- ******************************************************************************************************************************** -->
