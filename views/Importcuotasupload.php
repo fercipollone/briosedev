@@ -6,6 +6,9 @@
 
 <?php
     $Mensaje = "";
+    ini_set('upload-max-filesize', '10M');
+    ini_set('post_max_size', '64M');
+    ini_set('upload_max_filesize', '64M');
   ?>
 
 <!-- Content Wrapper. Contains page content -->

@@ -34,11 +34,13 @@
                   <?php
                      while ($c = $periodos->fetch_assoc()) 
                      {
+                      $total = number_format($c['total'],2);
+                      
                       echo "<tr>";
                       echo "<td>{$c['periodopago']}</td>";
                       echo "<td class=\"text-right\">{$c['cantidad']}</td>";
                       echo "<td class=\"text-right\">{$c['cuotas']}</td>";
-                      echo "<td class=\"text-right\">{$c['total']}</td>";
+                      echo "<td class=\"text-right\">{$total}</td>";
                       echo "<td><a href='panel.php?panel=pagosdown&periodo={$c['periodopago']}'>generar</a></td>";
                       echo "</tr>";
                      }

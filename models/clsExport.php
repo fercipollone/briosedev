@@ -17,8 +17,8 @@
                 
             public function closeCNX()
                  {
+                    //$this->mysqli->close();
                     //$this->db->desconectar();
-                    //$this->mysqli->close();   
                  }
             
             public function export_pagos($periodo)
@@ -87,7 +87,9 @@
                     echo "<a href='{$filename}'>Descargar archivo </a>";
                     
                     $inserts = $count - $err;
+                    
                     $pagos->free();
+                    $cuotas->closeCNX();
 
                     return $err;
                 }

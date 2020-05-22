@@ -46,7 +46,7 @@
                     foreach ($xml->Socio as $socio) 
                     {
                         $percent = round($count/$total*100,2)."%";
-                        $multiplo10 = $count % 10;
+                        $multiplo10 = $count % 100;
 
                         if ($multiplo10 == 0)
                             {
@@ -187,7 +187,7 @@
                     foreach ($xml->ActividadSocio as $actividad) 
                         {
                         $percent = round($count/$total*100,2)."%";
-                        $multiplo10 = $count % 10;
+                        $multiplo10 = $count % 100;
 
                         if ($multiplo10 == 0)
                             {
@@ -248,22 +248,32 @@
                     //Eliminar los pendientes para ese cliente id 
                     $qry = "DELETE FROM cuotas WHERE cli_idCliente = " . $_SESSION['ClienteId'] . " AND cso_estado = 1";                
                     if (!$this->mysqli->query($qry))
-                                {
-                                    echo $this->mysqli->error . "\n";
-                                    echo "<br>";
-                                    echo $qry;
-                                    echo "<br>";
-                                };
+                        {
+                            echo $this->mysqli->error . "\n";
+                            echo "<br>";
+                            echo $qry;
+                            echo "<br>";
+                        }
+                    else    
+                        {
+                            echo "Eliminación de cuotas pendientes exitoso";
+                            echo "<br>";
+                        };
                     
                     //Eliminar los pagos pendientes que no se cerraron 
                     $qry = "DELETE FROM pagos WHERE cli_idCliente = " . $_SESSION['ClienteId'] . " AND pag_estado = 0";
                     if (!$this->mysqli->query($qry))
-                                {
-                                    echo $this->mysqli->error . "\n";
-                                    echo "<br>";
-                                    echo $qry;
-                                    echo "<br>";
-                                };
+                        {
+                            echo $this->mysqli->error . "\n";
+                            echo "<br>";
+                            echo $qry;
+                            echo "<br>";
+                        }
+                    else    
+                        {
+                            echo "Eliminación de temporales pendientes exitoso";
+                            echo "<br>";
+                        };
 
                     //Abrir el archivo
                     $archivo = fopen($filename, "r");
@@ -280,7 +290,7 @@
                     //----------------------------------------------------------------
                     //Abrir el archivo
                     $archivo = fopen($filename, "r");
-                    mb_convert_encoding($archivo, 'ISO-8859-1', 'UTF-8');
+                    //mb_convert_encoding($archivo, 'ISO-8859-1', 'UTF-8');
                     $total = $lineas;
                     $err = 0;
                     $linea = 0;
@@ -291,7 +301,7 @@
                             $linea++;
 
                             $percent = round($linea/$total*100,2)."%";
-                            $multiplo10 = $linea % 10;
+                            $multiplo10 = $linea % 100;
 
                             if ($multiplo10 == 0)
                             {

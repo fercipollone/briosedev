@@ -1,0 +1,4377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10765</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11950</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8626</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12716</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8615</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12654</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12676</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12397</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12726</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12494</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12670</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11635</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12724</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9614</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9614</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10720</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10720</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12268</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8575</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8707</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10900</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8124</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12500</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12500</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12516</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10829</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11366</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8464</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12122</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12122</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12127</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12127</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12332</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8031</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11173</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11173</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11549</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12691</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12690</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9458</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9711</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12550</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9924</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9037</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9466</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9466</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12269</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9164</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9164</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12559</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11157</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10079</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9623</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12368</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10693</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8932</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12613</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12401</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12648</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12649</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11111</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10483</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9295</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201509</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10385</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12675</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12641</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10841</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10841</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12744</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12636</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12636</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6531</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11557</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12656</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10060</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9827</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12587</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10195</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7517</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12692</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9332</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11499</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12614</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11117</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12205</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8340</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8339</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10315</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11018</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10650</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10650</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11878</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12139</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12139</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11344</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12310</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12638</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12638</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8428</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8915</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12520</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12280</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12526</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12526</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6756</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12748</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12153</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12634</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12634</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12632</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12632</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12653</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>4048</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>4048</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>4048</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12615</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9253</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12720</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10223</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12480</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8929</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12738</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12484</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6920</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9027</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11216</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9186</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10636</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12672</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12425</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12693</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7370</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12156</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12558</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10890</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12464</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12464</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12694</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12685</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9086</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8330</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12383</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9535</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9111</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9111</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12542</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12752</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11045</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>ESCUELA DE FUTBOL - ESCUELA DE FUTBOL</Actividad>
+    <UltimoPeriodoPago>201711</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12537</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8160</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS DE MESA - TENIS DE MESA MAYORES</Actividad>
+    <UltimoPeriodoPago>201405</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8383</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3804</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12609</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12578</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12167</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12167</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12733</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12340</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12340</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9476</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9476</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12715</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11779</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12285</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12337</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7821</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10310</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8908</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11076</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11076</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11203</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10119</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10119</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201604</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10435</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9012</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12483</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12483</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9585</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7468</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11163</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12745</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12695</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12608</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9319</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12171</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8646</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8646</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11535</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9161</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12607</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8873</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10837</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8872</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6746</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6746</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8944</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11744</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12471</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12686</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11042</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12729</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12606</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6003</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11648</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8856</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12504</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12335</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9169</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11097</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7298</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12247</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12143</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201806</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7809</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12616</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12717</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12731</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3373</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12088</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10587</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12722</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12674</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12674</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6619</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12067</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201808</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12595</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12596</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8693</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8434</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6632</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11709</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7305</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7423</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12721</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12633</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12633</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10579</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>2479</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10013</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201805</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10013</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11931</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12560</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9567</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12436</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12436</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7878</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6304</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12696</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8900</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201602</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7756</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10867</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9177</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12576</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12382</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11707</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA MAYORES</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11707</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9484</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9484</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3278</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12385</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3082</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10321</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10741</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11387</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6149</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6149</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA MAYORES</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12719</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9610</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10110</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8235</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12250</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3779</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11770</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11770</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7036</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10944</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12665</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12236</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201812</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7866</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10628</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12228</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12228</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9713</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9824</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9714</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6699</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11053</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8081</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8081</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12669</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8680</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12287</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12509</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6127</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201802</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12599</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10861</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12076</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12532</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12532</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12532</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12697</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6346</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8820</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7872</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7871</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7871</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7871</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10061</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11854</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12057</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8786</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10778</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10401</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12217</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12457</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12457</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11134</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9289</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9289</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8775</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9029</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12711</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9024</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9590</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7805</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7805</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12728</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12575</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12642</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - PILETA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9226</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11691</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12117</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12698</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12655</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12605</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12519</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12519</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>1003</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12682</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12539</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6643</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12438</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12438</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11277</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12617</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12699</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12708</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12700</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9579</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7591</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9578</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12326</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12325</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6835</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7634</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11793</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11793</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9126</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7839</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9193</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9104</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7794</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12517</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12243</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11384</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12386</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9103</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7723</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12099</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11142</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8910</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201801</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12433</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9340</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12360</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11844</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9434</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9987</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7899</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7899</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12241</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11682</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11682</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11684</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>ESCUELA DE FUTBOL - ESCUELA DE FUTBOL</Actividad>
+    <UltimoPeriodoPago>201804</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>1160</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12594</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12667</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12198</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7362</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12112</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201906</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7597</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12713</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11583</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIO - PALESTRA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12619</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201907</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10695</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11717</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>2473</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9349</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12441</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - PILETA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12441</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8888</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11966</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11966</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12702</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6380</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6989</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12475</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12475</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12506</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12505</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12620</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11317</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11713</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8267</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10296</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12621</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11141</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11137</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202005</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12660</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12660</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12281</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9147</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11341</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201807</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12658</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12536</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12536</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12630</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11272</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12567</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12567</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9740</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9595</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12703</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9937</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>3915</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9995</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12739</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7166</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7537</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12461</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201907</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12461</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12124</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11125</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11850</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12466</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12466</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12544</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12544</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12131</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12131</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12213</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12213</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12213</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11235</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11235</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11235</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12446</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9247</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9247</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12712</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9219</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10197</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7048</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11765</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11766</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11766</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12284</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201903</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9565</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12548</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12548</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10156</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12747</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6187</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6187</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6187</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10204</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12185</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12186</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12186</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11168</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11273</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12598</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12522</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10103</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12737</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>1005</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12482</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6889</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6415</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11122</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11972</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10722</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9198</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11883</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9277</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9724</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9429</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7337</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12573</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6349</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10405</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8119</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12741</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12602</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12572</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12593</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12671</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12625</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12571</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12459</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12459</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6610</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8904</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8793</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12626</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10626</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11106</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12159</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12160</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8538</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11170</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12568</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10998</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12570</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12443</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12443</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11064</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9577</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11859</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11114</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10658</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10097</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12645</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12645</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11722</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11722</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12684</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12705</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6113</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12706</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12491</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12491</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12491</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12212</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11346</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8279</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>FUTBOL - FUTBOL INFANTIL</Actividad>
+    <UltimoPeriodoPago>201804</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12746</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9757</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11993</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10721</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9989</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201710</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12635</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12635</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12001</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12001</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201906</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12668</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8768</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11666</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12555</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12585</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12585</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9634</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12177</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12177</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12374</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12408</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8344</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11584</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11592</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12529</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12718</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10388</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11759</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11193</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12110</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12110</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9752</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7123</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12583</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12161</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12161</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12225</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12135</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11412</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11412</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12423</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11285</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET FEMENINO</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11553</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12115</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12709</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12750</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11989</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11653</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8816</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10601</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10601</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11465</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET  M -</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12152</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12627</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201909</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11678</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11679</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11482</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9230</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9716</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201912</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12629</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12629</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12329</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202004</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8447</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>9725</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>8925</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10249</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - ESCUELA MINI VOLEY -</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12155</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10289</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10289</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10090</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7010</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7033</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET - FONDO OBRA</Actividad>
+    <UltimoPeriodoPago>202003</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12231</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11957</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>PATIN - PATIN</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11813</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12102</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12102</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201908</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10045</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10045</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12707</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12416</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12681</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>BASQUET - BASQUET</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11686</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11686</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  AVANZADA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>7409</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>202002</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11128</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10241</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12743</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>6316</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>TENIS - ADICIONAL TENIS</Actividad>
+    <UltimoPeriodoPago>202001</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12723</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10560</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA  ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10560</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>11559</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>NATACION - ADICIONAL NATACION</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>10748</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>VOLEY - VOLEY A</Actividad>
+    <UltimoPeriodoPago>201910</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12144</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - GIMNASIA ARTISTICA ESCUELITA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+  <ActividadSocio>
+    <soc_idsocio>12144</soc_idsocio>
+    <cfg_idCliente>11</cfg_idCliente>
+    <Actividad>GIMNASIA ARTISTICA - SEGURO GIMNASIA ARTISTICA</Actividad>
+    <UltimoPeriodoPago>201911</UltimoPeriodoPago>
+    <FechaAct>2020-04-29T14:04:23.447</FechaAct>
+  </ActividadSocio>
+</ActividadSocio>

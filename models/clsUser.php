@@ -8,8 +8,8 @@
             public function __construct()
                  {
                     require_once("../models/cnx.php");
-                     $this->db = new cnx(); 
-                     $this->mysqli = $this->db->conectar();  
+                    $this->db = new cnx(); 
+                    $this->mysqli = $this->db->conectar();  
                      
                  }
             
@@ -173,7 +173,7 @@
                     
                     $from = $socio['cli_email'];
                     
-                    $subject = "Envio de creedenciales a {$socio['soc_apellidoynombre']} de {$socio['cli_nombre']}";
+                    $subject = "Activación de creedenciales a {$socio['soc_apellidoynombre']} de {$socio['cli_nombre']}";
                     $body = "
                             <p>Hola <b>{$socio['soc_apellidoynombre']}</b></p>
                             <p>Gracias por visitarnos y hacer su registro para nuestra sede virtual</p>
@@ -185,7 +185,7 @@
                             ";
 
                     $mailer = new clsMailer(); 
-                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email']))
+                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email'], $socio['cli_emailcolor']))
                         {
                             $resp = "Envio exitoso";
                         }  
@@ -223,7 +223,7 @@
                             ";
 
                     $mailer = new clsMailer(); 
-                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email']))
+                    if ($mailer->Enviar($from, $email, $subject, $body, $socio['cli_nombre'], $socio['cli_email'], $socio['cli_emailcolor']))
                         {
                             $resp = "Envio exitoso";
                         }  
@@ -258,14 +258,13 @@
                     //date_default_timezone_set('America/Argentina/Buenos_Aires');
 
                     //Busco por la tabla Usuario
-                    $qry = "SELECT * FROM vw_usuarios WHERE usr_nombre = '{$username}' and usr_clave = '{$password}' and usr_SuperUsuario > 0";
+                    $qry = "SELECT * FROM vw_usuarios WHERE usr_nombre = '{$username}' and usr_clave = '{$password}' and usr_SuperUsuario > 0 and usr_nombre is not null";
+                    //echo($qry);
                     $superusuario = $this->mysqli->query($qry);
                     if ($superusuario->num_rows == 0)
                         {
                             //usr_nombre es el nro de documento
                             $qry = "SELECT * FROM vw_sociosusuario WHERE usr_nombre = '{$username}' and usr_clave = '{$password}'";
-                            //echo($qry);
-                            //echo("<br>");
                             $resultado = $this->mysqli->query($qry);
                         }
                         else
@@ -291,10 +290,11 @@
                             else
                             {
                                 //El estado NO es Habilitado 
+                                $this->EnvioBotonDeActivacion($fila, $fila['usr_Email']);
                                 $respuesta = "Su usuario no esta habilitado aún para operar, le enviamos un pedido de confirmación a este email a {$fila['usr_Email']} ";
                             }
                         }
-                    $resultado->free();
+                    //$resultado->free();
                     $this->closeCNX();
 
                     return $resp;
@@ -339,6 +339,8 @@
                     $_SESSION['SocioId'] = $fila['soc_idsocio'];
                     $_SESSION['SocioNombre'] = $fila['soc_apellidoynombre'];
                     $_SESSION['UsuarioNombre'] = $fila['usr_Nombre'];
+                    $_SESSION['ClienteWA'] = $this->urlwhatsapp($fila['soc_apellidoynombre'],$fila['cli_celularwa']);
+                    $_SESSION['MenuComunicacionSocio'] = $this->menucomunicacion($fila['cli_idcliente']);
                                                                         
                     switch ($fila['usr_SuperUsuario']) {
                         case 0:
@@ -366,7 +368,55 @@
                             break;
                     } 
                 }
+            
+            public function urlwhatsapp($nombre, $celular)
+                {
+                    
+                    $nombre = str_replace(' ', '%20', $nombre);
+                    $text = "Hola%20soy%20".$nombre."%20me%20pueden%20asistir%20con%20la%20sede%20virtual.%20Muchas%20gracias.";
+                    return "https://wa.me/".$celular."?text=".$text;
+                }
+            
+            public function menucomunicacion($cliente_id)
+                {
+                    $menu = "";
+                    $qry = "SELECT * FROM vw_comunicacion WHERE cliente_id = {$cliente_id}";
+                    $resultado = $this->mysqli->query($qry);
 
+                    if ($resultado->num_rows == 0)
+                        {
+                          return $menu; 
+                        }
+                    else    
+                        {
+                            $menu = '<li class="treeview">';
+                            $menu .= '<a href="#"><i class="fa fa-volume-up"></i> <span>Comunicación</span>';
+                            $menu .= '<span class="pull-right-container">';
+                            $menu .= '<i class="fa fa-angle-left pull-right"></i>';
+                            $menu .= '</span>';
+                            $menu .= '</a>';
+                            $menu .= '<ul class="treeview-menu">';
+
+                            while ($medio = $resultado->fetch_assoc())
+                                {
+                                    $menu .= '<li>';
+                                    if ($medio['valor']=='#')
+                                        {
+                                            $menu .= '<a href="'.$medio['valor'].'">';
+                                        }
+                                    else
+                                        {
+                                            $menu .= '<a href="'.$medio['valor'].'" target="_blank">';   
+                                        }
+                                    $menu .= '<i class="'.$medio['icono'].'"></i>'.$medio['etiqueta'];
+                                    $menu .= '</a>';
+                                    $menu .= '</li>';
+                                }
+
+                            $menu .= '</ul></li>';
+                            return $menu; 
+                        }
+                }
 
             public function get_Usuarios()
                 {
@@ -428,6 +478,44 @@
                             $qry = "UPDATE usuario SET usr_Clave = '{$clavenueva}' WHERE usr_idUsuario = {$usuario_id}";
                             $this->mysqli->query($qry); 
                             return true;
+                        }
+                }
+            
+            public function get_UsuarioSocio($cliente_id, $socio_id)
+                {  
+                    $qry = "SELECT soc_apellidoynombre, soc_documento, soc_sexo, tid_idtipodocumento, usr_Nombre, usr_Clave, usr_Email, hab_nombre FROM vw_sociosusuario WHERE cli_idCliente = {$cliente_id} AND soc_idsocio = {$socio_id}";
+                    $resultado = $this->mysqli->query($qry);  
+                    return $resultado;                            
+                }
+            public function cambiaremail($email, $cliente_id, $socio_id, &$respuesta)
+                {
+                    $qry = "UPDATE usuario SET " . 
+                    " usr_email = '{$email}'" .
+                    " WHERE " . 
+                    " soc_idSocio = {$socio_id}" . 
+                    " AND cli_idCliente = {$cliente_id}";
+
+                    try 
+                        {
+                            $this->mysqli->query($qry);
+
+                            $respuesta = "<div class='alert alert-success alert-dismissible'>";
+                            $respuesta .= "<br>";
+                            $respuesta .= "<h4><i class=\"icon fa fa-check\"></i>Proceso exitoso</h4>";
+                            $respuesta .= "Los datos se han almacenado exitosamente";
+                            $respuesta .= "<br>";
+                            $respuesta .= "<a href='panel.php?panel=list&i=usu'>Volver al listado</a>";
+                            $respuesta .= "<br>&nbsp;";
+                            $respuesta .= "</div>";
+                        } 
+                    catch (Throwable $e) 
+                        {
+                            $respuesta = "<div class='alert alert-danger alert-dismissible'>";
+                            $respuesta .= "<br>";
+                            $respuesta .= "<h4><i class=\"icon fa fa-ban\"></i>Se ha producido un error</h4>";
+                            $respuesta .= "Algo fallo no pudimos grabar los cambios ".$e;
+                            $respuesta .= "<br>&nbsp;";
+                            $respuesta .= "</div>";
                         }
                 }
         }

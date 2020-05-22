@@ -8,10 +8,10 @@
 ?>
     <div class="box box-primary">
         <div class="box-header with-border">
-            <h3 class="box-title">Ventanilla de Pagos</h3>
+            <h3 class="box-title">Pagos</h3>
 
             <div class="box-tools pull-right">
-              <button type="button" class="btn btn-box-tool" onclick="window.open('https://www.youtube.com/watch?v=DHmjKhXl4jY','_blank');"><i class="fa fa-youtube-play"></i>&nbsp;&nbsp;ver video como pagar</button>
+              <button type="button" class="btn btn-box-tool" onclick="window.open('https://www.youtube.com/watch?v=DHmjKhXl4jY','_blank');"><i class="fa fa-youtube-play"></i>&nbsp;&nbsp;¿como pagar?</button>
               &nbsp;&nbsp;&nbsp;
               <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
               

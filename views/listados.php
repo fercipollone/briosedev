@@ -39,11 +39,17 @@
           case "usu":
             include "Paneles/lstcliusuarios.php";
             break;
+          case "soc":
+            include "Paneles/lstclisocios.php";
+            break;
           case "pag":
             include "Paneles/lstclipagos.php";
             break;
           case "cuot":
             include "Paneles/lstclicuotas.php";
+            break;
+          case "msu":
+            include "Paneles/ABMSocioUsuario.php";
             break;
           default:
             echo "sin informe";

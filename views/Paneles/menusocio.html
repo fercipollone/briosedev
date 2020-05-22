@@ -13,6 +13,12 @@
       </ul>
     </li>
 
+    <li>
+      <a href="<?php echo $_SESSION['ClienteWA']?>" target="_blank"><i class="fa fa-whatsapp"></i><span>Habla con el club</span></a>
+    </li>
+
+    <?php echo $_SESSION['MenuComunicacionSocio']?>
+
     <li class="treeview">
       <a href="#"><i class="fa fa-gear"></i> <span>Configuración</span>
         <span class="pull-right-container">
@@ -23,6 +29,8 @@
         <li><a href="panel.php?panel=clave">Cambiar Clave</a></li>
       </ul>
     </li>
+
+    
 
     <li>
       <a href="login.php"><i class="fa fa-close"></i><span>Cerrar Sessión</span></a>

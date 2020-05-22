@@ -123,7 +123,7 @@
 
             public function SeleccionarPeriodosPagos($idCliente)
                 {                    
-                    $qry = "SELECT periodopago, count(distinct pago_id) as cantidad, count(cuotadetalle_id) as cuotas, sum(importe) as total FROM vw_pagos WHERE cliente_id = {$idCliente} GROUP BY	periodopago ORDER BY periodopago DESC";
+                    $qry = "SELECT periodopago, count(distinct pago_id) as cantidad, count(cuotadetalle_id) as cuotas, sum(importe) as total FROM vw_pagos WHERE cliente_id = {$idCliente} and estadopago_id = 2 GROUP BY periodopago ORDER BY periodopago DESC";
                     //echo $qry;
                     $resultado = $this->mysqli->query($qry);                    
                     return $resultado;
@@ -131,13 +131,13 @@
             
             public function PagosxPeriodo($idCliente, $periodo, &$cantidad)
                 {                    
-                    $qry = "SELECT count(pago_id) as cantidad FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo}";
+                    $qry = "SELECT count(pago_id) as cantidad FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo} AND estadopago_id = 2";
                     $resultadototal = $this->mysqli->query($qry);
                     $t = $resultadototal->fetch_assoc();
                     $cantidad = $t['cantidad'];
                     $resultadototal->free();
                                         
-                    $qry = "SELECT * FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo}";
+                    $qry = "SELECT * FROM vw_pagos WHERE cliente_id = {$idCliente} AND periodopago = {$periodo} AND estadopago_id = 2 ";
                     $resultado = $this->mysqli->query($qry);                    
                     return $resultado;
                 }

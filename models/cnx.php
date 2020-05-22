@@ -28,12 +28,13 @@ class cnx
                 {
                     echo "Falló la conexión a MySQL: (" . $this->mysqlicnx->connect_errno . ") " . $this->mysqlicnx->connect_error; 
                 }
+            //echo "Status de la conexion: " . $this->mysqlicnx->stat;
             return $this->mysqlicnx; 
         }
     
     public function desconectar()
         {
-            $this->mysqlicnx->close();  
+            //$this->mysqlicnx->close();  
         }
 }
 ?>

@@ -1,0 +1,11 @@
+# Sede Virtual
+*.log
+*.tmp
+*.pyc
+
+/views/dist/img/socios/ribera
+/views/import
+
+# End of https://www.gitignore.io/api/django
+
+

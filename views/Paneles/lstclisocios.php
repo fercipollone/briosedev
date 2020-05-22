@@ -1,11 +1,11 @@
 <?php
   require_once("../models/clsListado.php");
   $est = new clsListado();
-  $re = $est->listado_usuarios($_SESSION['ClienteId']);
+  $re = $est->listado_socios($_SESSION['ClienteId']);
 ?>
   <div class="box box-primary">
       <div class="box-header with-border">
-          <h3 class="box-title">Usuarios</h3>
+          <h3 class="box-title">Socios Activos</h3>
 
           <div class="box-tools pull-right">
             <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>

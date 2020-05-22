@@ -1,7 +1,7 @@
 <?php
     
     require_once("../models/clsMailer.php");
-                    
+                        
     $from = "tuclub@gmail.com";
     $email = "fercipollone@gmail.com";
     $subject = "Envio de creedenciales a tu direccion";
@@ -9,9 +9,11 @@
     $body =  $body . "Haga clic aquí para terminar el trámite de activación:";
     $body =  $body . "http:\\www.google.com";
     $body =  $body . " Atentamente, El equipo de administración";
+    $club = "prueba";
+    $color = "#F0F0F0";
     
     $mailer = new clsMailer(); 
-    $resp = $mailer->Enviar($from, $email, $subject, $body);
+    $resp = $mailer->Enviar($from, $email, $subject, $body, $club);
     echo "Ya envio";
     if ($resp)
         {

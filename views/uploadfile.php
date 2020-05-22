@@ -8,8 +8,12 @@ $tamano_archivo = $_FILES['uploadedFile']['size'];
 $path = 'import/'.$nombre_archivo;
 $upload = false;
 
+//print_r($_FILES['uploadedFile']);
+//echo "<br>";
+
 //compruebo si las características del archivo son las que deseo
-if (!(strpos($tipo_archivo, "application/vnd.ms-excel")) && ($tamano_archivo < 100000)) 
+if (!($tipo_archivo == "application/vnd.ms-excel") && ($tamano_archivo < 100000)) 
+//if (!(strpos($tipo_archivo, "application/vnd.ms-excel"))) 
 	{
    		$mensaje = "La extensión o el tamaño de los archivos no es correcta ".$tipo_archivo;
 	}
@@ -30,5 +34,15 @@ if ($upload)
 	{
 		$page_content = 'importcuotas.php';
 		include "template.php";
+	}
+else	
+	{
+		echo "Mensaje: ".$mensaje;
+		echo "<br>";
+		echo "Tipo Archivo: ".$tipo_archivo;
+		echo "<br>";
+		echo "Tamaño Archivo: ".$tamano_archivo;
+		echo "<br>";
+		echo "Nombre Archivo: ".$nombre_archivo;
 	}
 ?>
